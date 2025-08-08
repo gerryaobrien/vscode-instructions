@@ -20,7 +20,7 @@ As a software developer, you are tasked with evaluating older code. You will use
 
 TEST
 
-	![Nap_Day.jpg](/media/Nap_Day.jpg)
+![Nap_Day.jpg](/media/Nap_Day.jpg)
 
 
 # Exercise 1: GitHub Copilot Setup
